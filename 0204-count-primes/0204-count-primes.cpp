@@ -16,7 +16,7 @@ public:
             }
         }
         int count=0;
-        for(int i=2;i<n;i++){
+        for(int i=2;i<n;i++){ // for number less than thats why <n
             if(prime[i]==1) count++;
         }
         return count;

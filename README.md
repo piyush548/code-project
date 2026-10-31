@@ -17,6 +17,7 @@ uploading codes.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/piyush548/code-project/tree/master/0007-reverse-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/piyush548/code-project/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |

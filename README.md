@@ -18,6 +18,7 @@ uploading codes.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/piyush548/code-project/tree/master/0007-reverse-integer) |
+| [0507-perfect-number](https://github.com/piyush548/code-project/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/piyush548/code-project/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |

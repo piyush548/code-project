@@ -13,4 +13,13 @@ uploading codes.
 | ------- |
 | [0125-valid-palindrome](https://github.com/piyush548/code-project/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyush548/code-project/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/piyush548/code-project/tree/master/1903-largest-odd-number-in-string) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/piyush548/code-project/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/piyush548/code-project/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

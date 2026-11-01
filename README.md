@@ -14,6 +14,7 @@ uploading codes.
 | [0014-longest-common-prefix](https://github.com/piyush548/code-project/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/piyush548/code-project/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyush548/code-project/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/piyush548/code-project/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/piyush548/code-project/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -55,4 +56,8 @@ uploading codes.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush548/code-project/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/piyush548/code-project/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

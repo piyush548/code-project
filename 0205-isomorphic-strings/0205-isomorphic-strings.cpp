@@ -18,3 +18,8 @@ public:
         return true;
     }
 };
+//end() is not an empty map. It is a special iterator used to indicate that the searched element was not found when returned by find().
+
+//mp1.find('z') == mp1.end()
+//TRUE
+// Because z doesn't exist.

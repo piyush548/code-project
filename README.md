@@ -13,6 +13,7 @@ uploading codes.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush548/code-project/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/piyush548/code-project/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/piyush548/code-project/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/piyush548/code-project/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/piyush548/code-project/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/piyush548/code-project/tree/master/0796-rotate-string) |
@@ -64,6 +65,7 @@ uploading codes.
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/piyush548/code-project/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/piyush548/code-project/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |

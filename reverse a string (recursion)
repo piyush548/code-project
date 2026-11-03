@@ -1,0 +1,11 @@
+class Solution{	
+public:		
+	vector<char> reverseString(vector<char>& s){
+        if(s.size() <=1) return s;
+		char last = s.back();
+        s.pop_back();
+        vector<char> ans = reverseString(s);
+        ans.insert(ans.begin(),last);
+        return ans;
+	}
+};

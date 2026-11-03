@@ -1,0 +1,11 @@
+class Solution{	
+	public:
+		vector<int> reverseArray(vector<int>& nums){	
+            if(nums.size() <=1) return nums;		
+			int last = nums.back();
+            nums.pop_back();
+            vector<int> ans = reverseArray(nums);
+            ans.insert(ans.begin(),last);
+            return ans;
+		}
+};

@@ -35,6 +35,7 @@ uploading codes.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush548/code-project/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/piyush548/code-project/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/piyush548/code-project/tree/master/0485-max-consecutive-ones) |
 ## Enumeration
 |  |
 | ------- |

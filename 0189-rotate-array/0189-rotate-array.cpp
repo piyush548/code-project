@@ -9,4 +9,10 @@ public:
     }
 };
 
-// 
+// 1 2 3 4 5 6 7 ---->> want (5 6 7 1 2 3 4)
+
+// 7 6 5 4 3 2 1 ---> step 1 (reverse) k=3
+
+// reverse 7 6 5 
+
+// reverse 4 3 2 1 

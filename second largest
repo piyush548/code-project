@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int secondLargestElement(vector<int>& nums) {
+        int sl= -1;
+        sort(nums.begin(),nums.end());
+        int largest = nums[nums.size()-1]; // nums.size()-1 is the last index and nums[nums.size()-1] gives the value of the last index.
+        for(int i=nums.size()-2;i>=0;i--){
+            if(nums[i]!=largest){
+                sl = nums[i];
+                break;
+            }
+        }
+        return sl;
+    }
+};
+// when we sort the elements then last number is the largest and the second last is the second largest element (n-2).

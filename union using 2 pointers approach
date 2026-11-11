@@ -1,0 +1,36 @@
+class Solution {
+public:
+    vector<int> unionArray(vector<int>& nums1, vector<int>& nums2) {
+        int a = nums1.size();
+        int b = nums2.size();
+        vector<int> arr;
+        int i=0,j=0;
+        while(i<a && j<b){
+            if(nums1[i]<=nums2[j]){
+                if(arr.empty() || arr.back()!=nums1[i]){
+                    arr.push_back(nums1[i]);
+                }
+                i++;
+            }
+            else{
+                if(arr.empty() || arr.back()!=nums2[j]){
+                    arr.push_back(nums2[j]);
+                }
+                j++;
+            }
+        }
+        while(i<a){
+            if(arr.empty() || arr.back()!=nums1[i]){
+                arr.push_back(nums1[i]);
+            }
+            i++;
+        }
+        while(j<b){
+            if(arr.empty() || arr.back()!=nums2[j]){
+                arr.push_back(nums2[j]);
+            }
+            j++;
+        }
+        return arr;
+    }
+};

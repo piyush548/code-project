@@ -37,6 +37,7 @@ uploading codes.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush548/code-project/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/piyush548/code-project/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyush548/code-project/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/piyush548/code-project/tree/master/0283-move-zeroes) |
@@ -72,12 +73,14 @@ uploading codes.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyush548/code-project/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/piyush548/code-project/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/piyush548/code-project/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/piyush548/code-project/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/piyush548/code-project/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -91,5 +94,14 @@ uploading codes.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/piyush548/code-project/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

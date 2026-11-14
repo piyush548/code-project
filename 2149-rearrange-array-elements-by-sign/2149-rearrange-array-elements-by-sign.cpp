@@ -4,7 +4,9 @@ public:
         vector<int> pos;
         vector<int> nev;
         for(int i=0;i<nums.size();i++){
-            if(nums[i]>0) pos.push_back(nums[i]);
+            if(nums[i]>0){
+                pos.push_back(nums[i]);
+            }
             else nev.push_back(nums[i]);
         }
         vector<int> ans;

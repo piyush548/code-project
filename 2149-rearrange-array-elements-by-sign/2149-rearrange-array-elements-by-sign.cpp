@@ -17,3 +17,13 @@ public:
         return ans;
     }
 };
+
+// pos.size() decides when the loop stops.
+
+
+
+// pos[i] accesses an element from the positive vector.
+
+
+
+// neg[i] accesses an element from the negative vector.

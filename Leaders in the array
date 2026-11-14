@@ -1,0 +1,23 @@
+class Solution {
+public:
+    vector<int> leaders(vector<int>& nums) {
+      vector<int> temp;
+      int max = 0;
+      for(int i=nums.size()-1;i>=0;i--){
+        if(nums[i]>max){
+            temp.push_back(nums[i]);
+            max=nums[i];
+        } 
+      }
+      reverse(temp.begin(),temp.end());
+      return temp;
+    }
+};
+//if max isnt updated
+// Then max will always remain INT_MIN.
+
+// As a result, every element will satisfy:
+// nums[i] > max
+
+
+// So every element will be stored, even if it is not a leader.

@@ -38,6 +38,7 @@ uploading codes.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush548/code-project/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/piyush548/code-project/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyush548/code-project/tree/master/0204-count-primes) |
@@ -109,5 +110,10 @@ uploading codes.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piyush548/code-project/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

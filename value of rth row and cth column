@@ -8,3 +8,7 @@ public:
         return ans;
     }
 };
+
+// Because we need to calculate \(4C2\), which requires multiplying by two factors:
+// - First iteration: multiply by 4 and divide by 1.
+// - Second iteration: multiply by 3 and divide by 2.

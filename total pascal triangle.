@@ -1,0 +1,22 @@
+class Solution {
+public:
+    vector<vector<int>> pascalTriangleIII(int n) {
+        vector<vector<int>> ans(n); // n is the row
+        for(int i=0;i<n;i++){
+            ans[i] = vector<int>(i+1,1); // set all starting values as 1
+            for(int j=1;j<i;j++){
+                ans[i][j] = ans[i-1][j-1] + ans[i-1][j];
+                // previous row  previous column + previous row same column 
+            } 
+        }
+        return ans;
+    }
+};
+
+//We start j = 1 because the first element of every row is already 1. We don't need to calculate it again.
+
+// We use a double vector (vector<vector<int>>) because Pascal's Triangle contains multiple rows, and each row contains multiple numbers.
+
+// Let's understand the difference.
+// 1. Single vector – vector<int>
+// Stores numbers in one row.

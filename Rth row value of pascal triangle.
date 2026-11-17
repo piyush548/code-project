@@ -1,0 +1,12 @@
+class Solution {
+public:
+    vector<int> pascalTriangleII(int r) {
+        vector<int> temp;
+        int ans = 1;
+        for(int i=0;i<r;i++){
+            temp.push_back(ans); // all starts from 1.
+            ans = ans * (r-1-i) / (i+1);
+        }
+        return temp;
+    }
+};

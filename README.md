@@ -39,6 +39,7 @@ uploading codes.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush548/code-project/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
+| [0119-pascals-triangle-ii](https://github.com/piyush548/code-project/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/piyush548/code-project/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyush548/code-project/tree/master/0204-count-primes) |
@@ -116,4 +117,8 @@ uploading codes.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/piyush548/code-project/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->

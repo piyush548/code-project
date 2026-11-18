@@ -26,6 +26,7 @@ uploading codes.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/piyush548/code-project/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/piyush548/code-project/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/piyush548/code-project/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyush548/code-project/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/piyush548/code-project/tree/master/0507-perfect-number) |
@@ -38,6 +39,7 @@ uploading codes.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/piyush548/code-project/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/piyush548/code-project/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/piyush548/code-project/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyush548/code-project/tree/master/0119-pascals-triangle-ii) |
@@ -117,6 +119,7 @@ uploading codes.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/piyush548/code-project/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |

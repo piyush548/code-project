@@ -41,6 +41,7 @@ uploading codes.
 | [0014-longest-common-prefix](https://github.com/piyush548/code-project/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/piyush548/code-project/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/piyush548/code-project/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/piyush548/code-project/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyush548/code-project/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@ uploading codes.
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/piyush548/code-project/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyush548/code-project/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/piyush548/code-project/tree/master/0242-valid-anagram) |
@@ -121,6 +123,7 @@ uploading codes.
 | ------- |
 | [0048-rotate-image](https://github.com/piyush548/code-project/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/piyush548/code-project/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |

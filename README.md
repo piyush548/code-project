@@ -38,6 +38,7 @@ uploading codes.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/piyush548/code-project/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/piyush548/code-project/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/piyush548/code-project/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
@@ -81,6 +82,7 @@ uploading codes.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/piyush548/code-project/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/piyush548/code-project/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyush548/code-project/tree/master/0205-isomorphic-strings) |

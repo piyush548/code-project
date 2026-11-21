@@ -8,7 +8,7 @@ public:
             int a = nums[i];
             int more = target - a;
 
-            if(mpp.find(more) != mpp.end()) {
+            if(mpp.find(more) != mpp.end()) { //If find() is not equal to end(), it means the element exists.
                 return {mpp[more], i};
             }
 

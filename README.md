@@ -8,6 +8,7 @@ uploading codes.
 | ------- |
 | [0015-3sum](https://github.com/piyush548/code-project/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyush548/code-project/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/piyush548/code-project/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/piyush548/code-project/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/piyush548/code-project/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/piyush548/code-project/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ uploading codes.
 | [0048-rotate-image](https://github.com/piyush548/code-project/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/piyush548/code-project/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/piyush548/code-project/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/piyush548/code-project/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/piyush548/code-project/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyush548/code-project/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
@@ -97,6 +99,7 @@ uploading codes.
 | ------- |
 | [0015-3sum](https://github.com/piyush548/code-project/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyush548/code-project/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/piyush548/code-project/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/piyush548/code-project/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/piyush548/code-project/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/piyush548/code-project/tree/master/0451-sort-characters-by-frequency) |
@@ -137,4 +140,12 @@ uploading codes.
 | ------- |
 | [0118-pascals-triangle](https://github.com/piyush548/code-project/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyush548/code-project/tree/master/0119-pascals-triangle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/piyush548/code-project/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/piyush548/code-project/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

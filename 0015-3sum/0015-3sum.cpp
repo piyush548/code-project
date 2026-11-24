@@ -38,7 +38,7 @@ public:
 
         for(int i = 0; i < n; i++) {
 
-            if(i > 0 && nums[i] == nums[i-1]) {
+            if(i > 0 && nums[i] == nums[i-1]) { // it i==0 then it can be 0-1=-1. so to avoid that we have written i>0
                 continue;  // continue skip the present iteration and then moves to the next iteration.
             }
 
